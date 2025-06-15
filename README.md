@@ -27,6 +27,5 @@ A computer vision project to detect parked and empty spaces in a parking lot usi
 
 ## 📸 Screenshots
 
-1. **Extracted Frame from Parking Lot Footage**  
-   A single frame used for labeling parking spots:  
-   ![Parking Lot Frame](./Data/frame_for_parking.jpg)
+**Extracted Frame from Parking Lot Footage**   
+![Parking Lot Frame](./Data/frame_for_parking.jpg)

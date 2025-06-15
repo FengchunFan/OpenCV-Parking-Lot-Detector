@@ -1,0 +1,7 @@
+# Python 3.13 is NOT supported due to removed modules (e.g., pkgutil.ImpImporter)
+# This setup is tested and works with Python 3.11
+
+numpy==2.3.0
+opencv-python==4.11.0.86
+setuptools<68.0.0
+wheel==0.40.0

@@ -29,3 +29,6 @@ A computer vision project to detect parked and empty spaces in a parking lot usi
 
 **Extracted Frame from Parking Lot Footage**   
 ![Parking Lot Frame](./Data/frame_for_parking.jpg)
+
+**Manual Parking (Only few for reference)**   
+![Manaul Parking Space drawing](./Data/Manual_Drawing.png)

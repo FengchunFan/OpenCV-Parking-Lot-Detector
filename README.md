@@ -44,9 +44,9 @@ A computer vision project to detect parked and empty spaces in a parking lot usi
 ![Manual Parking Space drawing](./Data/Manual_Drawing.png)
 
 **3. Final Detection Output**  
-![Detection Output 1](./Data/detection_sample1.jpg)  
-![Detection Output 2](./Data/detection_sample2.jpg)  
-![Detection Output 3](./Data/detection_sample3.jpg)
+![Detection Output 1](./Data/Sample_Result_1.jpg)  
+![Detection Output 2](./Data/Sample_Result_2.jpg)  
+![Detection Output 3](./Data/Sample_Result_3.jpg)
 
 ---
 

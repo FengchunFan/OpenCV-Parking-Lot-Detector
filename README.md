@@ -16,8 +16,6 @@ A computer vision project to detect parked and empty spaces in a parking lot usi
 - 📽️ Extract a frame from a video
 - 🖼️ Manually draw parking spaces using 4-point polygons
 - 🎯 Select a clean floor patch as a reference using the same 4-point method
-- 💾 Save labeled spots to `parking_positions.npy`
-- 📄 Export a human-readable `parking_summary.txt` with spot count
 - 🚘 Detect occupancy in parking spots using color difference with a reference floor patch
 - 🎥 Run the detector on full videos, frame-by-frame
 
